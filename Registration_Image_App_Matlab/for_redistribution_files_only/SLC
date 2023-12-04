@@ -1,0 +1,28 @@
+错误使用 fopen
+文件标识符必须为双精度类型的整数值标量。
+
+出错 fopen (line 40)
+
+出错 getTIFFinfo (line 34)
+
+出错 app/Button_4Pushed2 (line 144)
+
+出错 appdesigner.internal.service.AppManagementService/tryCallback (line 344)
+
+出错 matlab.apps.AppBase>@(source,event)tryCallback(appdesigner.internal.service.AppManagementService.instance(),app,callback,requiresEventData,event) (line 35)
+
+错误使用 matlab.ui.control.internal.controller.ComponentController/executeUserCallback (line 382)
+计算 Button PrivateButtonPushedFcn 时出错。
+
+错误使用 run (line 87)
+RUN 无法执行文件 'help.mlapp'。RUN 需要有效的 MATLAB 脚本
+
+出错 app/Menu_7Selected (line 287)
+
+出错 appdesigner.internal.service.AppManagementService/tryCallback (line 344)
+
+出错 matlab.apps.AppBase>@(source,event)tryCallback(appdesigner.internal.service.AppManagementService.instance(),app,callback,requiresEventData,event) (line 35)
+
+错误使用 matlab.ui.internal.controller.WebMenuController/fireActionEvent (line 67)
+计算 Menu Callback 时出错。
+

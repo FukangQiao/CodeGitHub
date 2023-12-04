@@ -1,0 +1,39 @@
+错误使用 imfuse>parse_inputs (line 442)
+'A' 的值无效。A 应为 非空。
+
+出错 imfuse (line 118)
+
+出错 imshowpair (line 114)
+
+出错 app/Button_9Pushed (line 206)
+
+出错 appdesigner.internal.service.AppManagementService/tryCallback (line 344)
+
+出错 matlab.apps.AppBase>@(source,event)tryCallback(appdesigner.internal.service.AppManagementService.instance(),app,callback,requiresEventData,event) (line 35)
+
+错误使用 matlab.ui.control.internal.controller.ComponentController/executeUserCallback (line 382)
+计算 Button PrivateButtonPushedFcn 时出错。
+
+位置 1 处的索引超出数组边界。
+
+出错 app/Button_10Pushed (line 216)
+
+出错 appdesigner.internal.service.AppManagementService/tryCallback (line 344)
+
+出错 matlab.apps.AppBase>@(source,event)tryCallback(appdesigner.internal.service.AppManagementService.instance(),app,callback,requiresEventData,event) (line 35)
+
+错误使用 matlab.ui.control.internal.controller.ComponentController/executeUserCallback (line 382)
+计算 Button PrivateButtonPushedFcn 时出错。
+
+错误使用 run (line 87)
+RUN 无法执行文件 'help.mlapp'。RUN 需要有效的 MATLAB 脚本
+
+出错 app/Menu_7Selected (line 287)
+
+出错 appdesigner.internal.service.AppManagementService/tryCallback (line 344)
+
+出错 matlab.apps.AppBase>@(source,event)tryCallback(appdesigner.internal.service.AppManagementService.instance(),app,callback,requiresEventData,event) (line 35)
+
+错误使用 matlab.ui.internal.controller.WebMenuController/fireActionEvent (line 67)
+计算 Menu Callback 时出错。
+
