@@ -19,3 +19,11 @@ git commit -m "xxx"
 git push
 ```
 
+
+
+Fork别人的项目 如何更新
+
+```
+https://www.jianshu.com/p/021bb953ee8d
+```
+
